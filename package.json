@@ -1,0 +1,23 @@
+{
+    "name": "node_hangman",
+    "version": "1.0.0",
+    "description": "cmd line hangman application using node.js and constructors",
+    "main": "hangman.js",
+    "scripts": {
+        "start": "node hangman.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TownerK91/nodeHangman.git"
+    },
+    "author": "Kevin Towner",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TownerK91/nodeHangman/issues"
+    },
+    "homepage": "https://github.com/TownerK91/nodeHangman#readme",
+    "dependencies": {
+        "prompt": "^1.0.0"
+    }
+}
