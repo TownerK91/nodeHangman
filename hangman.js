@@ -1,1 +1,1 @@
-console.log("hello world");
+var Word = require('./word.js');

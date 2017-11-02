@@ -1,5 +1,12 @@
-var letter = require("./letter.js");
+var Letter = require("./letter.js");
 
-var word = function(word) {
+var word = function(word) {};
 
-    },
+
+
+
+
+
+
+
+module.exports = Word;
